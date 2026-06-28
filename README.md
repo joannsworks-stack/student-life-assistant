@@ -67,5 +67,5 @@ This project was developed as part of Kaggle's **AI Agents: Intensive Vibe Codin
 
 ## Author
 
-**George M Chacko**
-GitHub: **JOANNS WORKS**
+- **George M Chacko**
+- GitHub: **JOANNS WORKS**
